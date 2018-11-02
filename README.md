@@ -7,6 +7,7 @@ It was developed in 2016 as part of my time studying abroad at the University of
 The following software is recommended for running the image compositor
 * Microsoft Windows 7 and later
 * Java Runtime Environment
+
 The following software may be used to build new versions for other systems, although no support is available for this
 * Java Development Kit
 
